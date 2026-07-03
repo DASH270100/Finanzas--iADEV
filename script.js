@@ -3,7 +3,7 @@
 // CONFIGURACIÓN
 // =========================
 
-const WEBHOOK = "https://hook.us2.make.com/hm32aliovzj23ndtmkbrwcd2kzlg6moi";
+const WEBHOOK = "https://hook.us2.make.com/bmcjqeay6jcuvxkif8utgscmi8tdidd5";
 const SHEET_ID = "1_7GeuQeIonqzuWCzRiWIjbg0xjbb1XpppYLM56pBU18";
 
 const DASHBOARD_URL =
@@ -302,6 +302,10 @@ async function registrarMovimiento(){
 }
 
 window.addEventListener("DOMContentLoaded",()=>{
+    $("registrar").addEventListener("click",registrarMovimiento);
+    actualizarTodo();
+});
+
     $("registrar").addEventListener("click",registrarMovimiento);
     actualizarTodo();
 });
