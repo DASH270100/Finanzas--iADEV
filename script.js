@@ -3,7 +3,7 @@
 // CONFIGURACIÓN
 // =========================
 
-const WEBHOOK = "https://hook.us2.make.com/32mdifa2zgy8vsh3ad98yhvr2lsukrnt";
+const WEBHOOK = "https://hook.us2.make.com/2py8dde96u2ydr1mp9tlqjc5p6ecsdvm";
 const SHEET_ID = "1_7GeuQeIonqzuWCzRiWIjbg0xjbb1XpppYLM56pBU18";
 
 const DASHBOARD_URL =
