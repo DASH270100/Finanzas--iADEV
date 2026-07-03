@@ -3,8 +3,8 @@
 // CONFIGURACIÓN
 // =========================
 
-const WEBHOOK = "https://hook.us2.make.com/bmcjqeay6jcuvxkif8utgscmi8tdidd5";
-const SHEET_ID = "1_7GeuQeIonqzuWCzRiWIjbg0xjbb1XpppYLM56pBU18";
+const WEBHOOK = "https://hook.us2.make.com/hm32aliovzj23ndtmkbrwcd2kzlg6moi";
+const SHEET_ID = "17c1RE_6EqhoeurjiZXWZXvMf6ncvSt5mIXjImI7GxpI";
 
 const DASHBOARD_URL =
 `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:json&sheet=Dashboards`;
