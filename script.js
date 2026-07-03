@@ -3,7 +3,7 @@
 // CONFIGURACIÓN
 // =========================
 
-const WEBHOOK = "https://dash270100.github.io/Finanzas--iADEV/";
+const WEBHOOK = "https://hook.us2.make.com/32mdifa2zgy8vsh3ad98yhvr2lsukrnt";
 const SHEET_ID = "1_7GeuQeIonqzuWCzRiWIjbg0xjbb1XpppYLM56pBU18";
 
 const DASHBOARD_URL =
