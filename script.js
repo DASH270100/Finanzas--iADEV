@@ -300,12 +300,7 @@ async function registrarMovimiento(){
 }
 
 }
-
-window.addEventListener("DOMContentLoaded",()=>{
-    $("registrar").addEventListener("click",registrarMovimiento);
-    actualizarTodo();
-});
-
-    $("registrar").addEventListener("click",registrarMovimiento);
+window.addEventListener("DOMContentLoaded", () => {
+    $("registrar").addEventListener("click", registrarMovimiento);
     actualizarTodo();
 });
